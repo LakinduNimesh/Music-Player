@@ -3,6 +3,9 @@
 
 This project is a simple music player web application built using HTML, CSS, and JavaScript. It allows users to play, pause, and navigate through a list of songs. The player displays the song's cover image, title, and artist, and includes a progress bar to show the current playback time.
 
+![image](https://github.com/LakinduNimesh/Music-Player/assets/149768006/e09cfff0-0c6f-4271-b2c7-9ab7e7e3a3ed)
+
+
 ## Features
 
 - Play and pause music
